@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="equalizerBg.png">
+    <SubTexture name="equalizerBg idle0000" x="1560" y="840" width="780" height="365" frameX="-10" frameY="-175" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0001" x="780" y="530" width="780" height="420" frameX="-10" frameY="-120" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0002" x="0" y="1060" width="780" height="420" frameX="-10" frameY="-120" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0003" x="0" y="0" width="780" height="530" frameX="-10" frameY="-10" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0004" x="0" y="1480" width="780" height="365" frameX="-10" frameY="-175" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0005" x="780" y="1480" width="780" height="365" frameX="-10" frameY="-175" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0006" x="1560" y="1205" width="780" height="255" frameX="-10" frameY="-285" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0007" x="0" y="1845" width="780" height="310" frameX="-10" frameY="-230" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0008" x="1560" y="1480" width="780" height="365" frameX="-10" frameY="-175" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0009" x="780" y="1060" width="780" height="420" frameX="-10" frameY="-120" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0010" x="1560" y="0" width="780" height="420" frameX="-10" frameY="-120" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0011" x="780" y="0" width="780" height="530" frameX="-10" frameY="-10" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0012" x="0" y="530" width="780" height="530" frameX="-10" frameY="-10" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0013" x="1560" y="420" width="780" height="420" frameX="-10" frameY="-120" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0014" x="780" y="1845" width="780" height="255" frameX="-10" frameY="-285" frameWidth="800" frameHeight="550" />
+    <SubTexture name="equalizerBg idle0015" x="1560" y="1845" width="780" height="200" frameX="-10" frameY="-340" frameWidth="800" frameHeight="550" />
+</TextureAtlas>
